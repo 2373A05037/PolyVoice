@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PolyVoice AI",
+  "description": "A high-end, multi-language Speech-to-Text and Text-to-Speech application with automatic language detection using Unicode pattern matching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
